@@ -1,0 +1,14 @@
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\bin\Debug\devibrahimcelik - services.exe.config
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\bin\Debug\devibrahimcelik - services.exe
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\bin\Debug\devibrahimcelik - services.pdb
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\bin\Debug\devibrahimcelik - services.xml
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\obj\Debug\devibrahimcelik - services.vbproj.AssemblyReference.cache
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\obj\Debug\devibrahimcelik___services.devibrahimcelik___services.resources
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\obj\Debug\devibrahimcelik___services.Resources.resources
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\obj\Debug\devibrahimcelik - services.vbproj.GenerateResource.cache
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\obj\Debug\devibrahimcelik - services.vbproj.CoreCompileInputs.cache
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\obj\Debug\devibrahimcelik - services.exe
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\obj\Debug\devibrahimcelik - services.xml
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\obj\Debug\devibrahimcelik - services.pdb
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\bin\Debug\Guna.UI2.dll
+C:\Users\Resul Çelik\source\repos\devibrahimcelik - services\devibrahimcelik - services\obj\Debug\devibrah.B1B8537F.Up2Date
